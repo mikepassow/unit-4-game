@@ -1,0 +1,10 @@
+body{
+    background: url("https://i.ytimg.com/vi/6b7jLhW6F1g/maxresdefault.jpg");
+    width: auto;
+    height: 100vh;
+    background-size: cover;
+}
+
+#pcrystal{
+height: 175px;
+}
