@@ -25,7 +25,7 @@ $('.randomNumber').text(randomNumber);
 // When the user clicks the red crystal this adds the random number to the variable total score
 $(".redCrystalNumber").on("click", function() {
    totalScore += redCrystalNumber;
-    $(".total-Score").text(totalScore);
+    $(".total-score").text(totalScore);
     log(redCrystalNumber);
     winLoseCondition();
   
